@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shabari</h1>
-<h3 align="center">A passionate machine learning engineer from India who loves tech and travel</h3>
+<h3 align="center">A passionate machine learning engineer from India who loves tech and books</h3>
 
 - 🔭 I’m currently into **Neural Networks and LLMs**
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **shabariprakashsv@gmail.com**
 
-- ⚡ Fun fact **I think i have great humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
